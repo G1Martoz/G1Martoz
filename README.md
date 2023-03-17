@@ -69,6 +69,4 @@
 </p>
 
 
-<p><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=g1martoz&show_icons=true&locale=en&layout=compact"
-        alt="g1martoz" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g1martoz&langs_count=6&layout=compact" alt="g1martoz" /> </p>
