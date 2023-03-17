@@ -13,15 +13,16 @@
 
 - ⚡ Dato curioso **Me gusta la calistenia como deporte.**
 
+
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-    <a href="https://linkedin.com/en/https://www.linkedin.com/en/martin-ozuna/" target="blank"><img align="center"
-            src="https: //raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="https://www.linkedin.com/in /martin-ozuna/" height="30" width="40" /></a>
-    <a href="https://discord.gg/G1Martoz#5294" target="blank"><img align=" centro"
+    <a href="https://www.linkedin.com/in/martin-ozuna/" target="_blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="LinkedIn Profile" height="30" width="40" /></a>
+    <a href="https://discord.gg/G1Martoz#5294" target="_blank"><img align=" center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-            alt="G1Martoz#5294" height="30 " width="40" /></a>
-</p>
+            alt="Discord" height="30 " width="40" /></a>
+</p> 
 
 <h3 align="left">Idiomas y herramientas:</h3>
 <p align="left">
