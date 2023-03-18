@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Martín Ozuna</h1>
-<h3 align="center">Soy un estudiante de capacitación en desarrollo web de FullStack. Apasionado por la interfaz pero entrenado en Java☕.</h3>
+<h3 align="center">Soy un estudiante de desarrollo web de FullStack. Apasionado por el frontend pero entrenado en Java☕.</h3>
 
 - 🔭 Actualmente estoy trabajando en [Proyecto de aplicación web de jardines agroecológicos.](https://github.com/G1Martoz/think)
 
