@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy aprendiendo mas a cerca de **Python**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [portfolio link]([portfolio link](https://miportfolio-martin-ozuna.netlify.app/))
+- 👨‍💻 Algunos de mis proyectos en mi porfolio ([portfolio link](https://miportfolio-martin-ozuna.netlify.app/))
 
 - 💬 Pregúntame sobre **Java**
 
