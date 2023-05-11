@@ -3,9 +3,9 @@
 
 - 🔭 Actualmente estoy trabajando en [Proyecto de aplicación web de huertas agroecológicos.](https://github.com/G1Martoz/think)
 
-- 🌱 Actualmente estoy aprendiendo **React**
+- 🌱 Actualmente estoy aprendiendo mas a cerca de **Python**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [portfolio link](portfolio link)
+- 👨‍💻 Todos mis proyectos están disponibles en [portfolio link]([portfolio link](https://miportfolio-martin-ozuna.netlify.app/))
 
 - 💬 Pregúntame sobre **Java**
 
