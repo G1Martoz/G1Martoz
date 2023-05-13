@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy trabajando en [Proyecto de aplicación web de huertas agroecológicos.](https://github.com/G1Martoz/think)
 
-- 🌱 Actualmente estoy aprendiendo mas a cerca de **Python**
+- 🌱 Actualmente estoy aprendiendo mas a cerca de **Django con Python**
 
 - 👨‍💻 Algunos de mis proyectos en mi porfolio ([portfolio link](https://miportfolio-martin-ozuna.netlify.app/))
 
