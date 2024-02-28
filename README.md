@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy aprendiendo mas a cerca de **Django con Python**
 
-- 👨‍💻 Algunos de mis proyectos en mi porfolio ([portfolio link](https://miportfolio-martin-ozuna.netlify.app/))
+- 👨‍💻 Algunos de mis proyectos en mi porfolio ([portfolio link](disponiblepronto))
 
 - 💬 Pregúntame sobre **Java**
 
