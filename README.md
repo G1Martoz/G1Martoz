@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Martín Ozuna</h1>
-<h3 align="center">Soy desarrollador web de FullStack. Apasionado por el desarrollo en Python🐍 y Java☕.</h3>
+<h3 align="center">Soy Técnico Superior en Programacion. Apasionado por el desarrollo en Python🐍 y Java☕.</h3>
 
 - 🌱 Actualmente estoy aprendiendo mas a cerca de **Django con Python**
 
