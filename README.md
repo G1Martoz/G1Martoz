@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo mas a cerca de **Django con Python**
 
-- 👨‍💻 Algunos de mis proyectos en mi porfolio (Portfolio)[(https://shorturl.at/pBS67)]
+- 👨‍💻 Algunos de mis proyectos en mi [porfolio](https://shorturl.at/pBS67)
 
 - 💬 Pregúntame sobre **Java**
 
