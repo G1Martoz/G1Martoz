@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo mas a cerca de **Django con Python**
 
-- 👨‍💻 Algunos de mis proyectos en mi porfolio ([disponible pronto](disponiblepronto))
+- 👨‍💻 Algunos de mis proyectos en mi porfolio ([Portfoliio]([disponiblepronto](https://shorturl.at/pBS67)))
 
 - 💬 Pregúntame sobre **Java**
 
@@ -17,7 +17,7 @@
     <a href="https://www.linkedin.com/in/martin-ozuna/" target="_blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="LinkedIn Profile" height="30" width="40" /></a>
-    <a href="https://discord.gg/G1Martoz#5294" target="_blank"><img align=" center"
+    <a href="https://discord.gg/g1martoz" target="_blank"><img align=" center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
             alt="Discord" height="30 " width="40" /></a>
 </p> 
