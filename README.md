@@ -3,8 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo mas a cerca de **Ciencia de Datos e Inteligencia Artificial**
 
-- 👨‍💻 Algunos de mis proyectos en mi [porfolio](No disponible)
-
+- 👨‍💻 Algunos de mis proyectos en mi [[porfolio](https://martoz.pythonanywhere.com/)
 - 💬 Pregúntame sobre **Java**
 
 - 📫 Cómo contactarme **g1martinozuna@gmail.com**
