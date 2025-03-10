@@ -80,6 +80,21 @@
     </a>
 </p>
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=g1martoz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g1martoz&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=g1martoz&theme=tokyonight&row=1&column=6" alt="trophy"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=g1martoz&theme=tokyonight" alt="streak"/>
+</div>
+
 ---
 
 <div align="center">
